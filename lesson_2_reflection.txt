@@ -5,6 +5,9 @@ File .git is added in paste of repository. For this Run the command git init.
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+The Staging area provide control of de versioned files in paste. 
+Staging area allows to contrast files whith and without version control.  
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
